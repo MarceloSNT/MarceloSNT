@@ -14,7 +14,7 @@ Sou um desenvolvedor em formação com foco em back-end, com experiência em pro
 
 ### 🛠️ Tecnologias e ferramentas
 
-<img src="https://skillicons.dev/icons?i=java,spring,angular,ts,html,css,bootstrap,git,mysql,postgresql,js,idea,nodejs,figma" />
+<img src="https://skillicons.dev/icons?i=java,spring,angular,ts,html,css,bootstrap,git,mysql,postgresql,js,junit,idea,nodejs,figma" />
 
 ---
 
