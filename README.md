@@ -1,6 +1,7 @@
 ## 👋 Olá, eu sou o Marcelo dos Santos Machado
 
-🎓 Estudante do último semestre de **Análise e Desenvolvimento de Sistemas** na **UNISUL – Tubarão**.  
+🎓 Formado em **Análise e Desenvolvimento de Sistemas** na **UNISUL – Tubarão**.
+🎓 Cursando Pós-graduação(EAD) em **Engenharia de Software em Java + IA** pela **UNIPDS** em parceria com a **Anhaguera**
 💻 Desenvolvedor com foco em **Back-end**, atuando também como **Full Stack** em projetos acadêmicos e práticos.  
 🚀 Interesse em construção de sistemas web, APIs e soluções escaláveis.
 
@@ -31,5 +32,5 @@ Aqui você encontrará projetos acadêmicos e práticos envolvendo:
 ### 📫 Contato
 
 - Github: https://github.com/MarceloSNT  
-- Linkedin: https://www.linkedin.com/in/marcelo-dos-santos-machado-214923318/
+- Linkedin: https://www.linkedin.com/in/dev-marcelo-dos-santos-machado/
 
