@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou o Marcelo dos Santos Machado
 
-🎓 Formado em **Análise e Desenvolvimento de Sistemas** na **UNISUL – Tubarão**.
-🎓 Cursando Pós-graduação(EAD) em **Engenharia de Software em Java + IA** pela **UNIPDS** em parceria com a **Anhaguera**
+🎓 Formado em **Análise e Desenvolvimento de Sistemas** na **UNISUL – Tubarão**.  
+🎓 Cursando Pós-graduação(EAD) em **Engenharia de Software em Java + IA** pela **UNIPDS** em parceria com a **Anhaguera**.  
 💻 Desenvolvedor com foco em **Back-end**, atuando também como **Full Stack** em projetos acadêmicos e práticos.  
 🚀 Interesse em construção de sistemas web, APIs e soluções escaláveis.
 
